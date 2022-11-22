@@ -153,7 +153,7 @@ You can assign labels to these entities when you create or edit them using the S
 -   Environment instances
 
     > ### Note:  
-    > For environment instances, these custom labels are user defined and apply only to SAP BTP. They are not the same labels that might be defined by your environment broker.
+    > For environment instances, these custom labels are user-defined and apply only to SAP BTP. They are not the same labels that might be defined by your environment broker.
 
 
 Labels are made up of a *label name* \(also referred to as a *key*\) and up to 10 *values* associated with the label. You can apply label names and values in any way that suits your business and technical needs.
